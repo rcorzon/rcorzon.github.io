@@ -1,1 +1,0 @@
-(()=>{var o={fallback:"https://rcorzon.github.io/",homes:{en:"https://rcorzon.github.io/"}};(()=>{let n=navigator.language||navigator.userLanguage;if(n in o.homes){window.location.href=o.homes[n];return}let i=n.split("-");for(let a in o.homes)if(a.indexOf(i[0])===0){window.location.href=o.homes[a];return}window.location.href=o.fallback})();})();

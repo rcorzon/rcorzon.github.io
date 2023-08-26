@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Just my stuff</title>
+    <link>https://rcorzon.github.io/en/posts/</link>
+    <description>Recent content in Posts on Just my stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>
+</copyright>
+    <lastBuildDate>Thu, 24 Aug 2023 13:48:52 +0200</lastBuildDate><atom:link href="https://rcorzon.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://rcorzon.github.io/en/posts/test/</link>
+      <pubDate>Thu, 24 Aug 2023 13:48:52 +0200</pubDate>
+      
+      <guid>https://rcorzon.github.io/en/posts/test/</guid>
+      <description><![CDATA[Hi,
+I&rsquo;m Rubén. I&rsquo;m a full stack developer focused on Microsoft Technologies. In this page you can see the different links you can use to contact with me, as well as my Github portfolio.
+Regards.]]></description>
+    </item>
+    
+  </channel>
+</rss>
+

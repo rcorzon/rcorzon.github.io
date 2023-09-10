@@ -11,10 +11,10 @@
     <lastBuildDate>Thu, 24 Aug 2023 13:49:00 +0200</lastBuildDate><atom:link href="https://rcorzon.github.io/es/tags/contacto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hola</title>
-      <link>https://rcorzon.github.io/es/posts/test/</link>
+      <link>https://rcorzon.github.io/es/posts/es/test/</link>
       <pubDate>Thu, 24 Aug 2023 13:49:00 +0200</pubDate>
       
-      <guid>https://rcorzon.github.io/es/posts/test/</guid>
+      <guid>https://rcorzon.github.io/es/posts/es/test/</guid>
       <description><![CDATA[Hola,
 Soy un desarrollador full stack centrado en tecnologías de Microsoft. En esta página puedes ver los distintos links con los que puedes contactar conmigo, así como ejemplos de código en GitHub.]]></description>
     </item>

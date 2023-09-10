@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Microsoft on Just my stuff</title>
+    <link>https://rcorzon.github.io/es/tags/microsoft/</link>
+    <description>Recent content in Microsoft on Just my stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-Es</language>
+    <copyright>
+</copyright>
+    <lastBuildDate>Sun, 10 Sep 2023 17:40:48 +0200</lastBuildDate><atom:link href="https://rcorzon.github.io/es/tags/microsoft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como solucionar el error de no poder hacer login en Escritorio Remoto de Windows usando una Cuenta Microsoft</title>
+      <link>https://rcorzon.github.io/es/posts/es/windows-rdp-problem/</link>
+      <pubDate>Sun, 10 Sep 2023 17:40:48 +0200</pubDate>
+      
+      <guid>https://rcorzon.github.io/es/posts/es/windows-rdp-problem/</guid>
+      <description><![CDATA[Este problema es bastante molesto, no ya por ser un bug, si no también debido a la falta de documentación oficial por parte de Microsoft que explique posibles soluciones. Después de indagar en internet durante unas cuantas horas he encontrado esta solución que parece ser la correcta.
+Puede haber múltiples causas de este fallo, pero normalmente ocurre porque la contraseña de la cuenta de Microsoft no está guardada localmente en el ordenador remoto.]]></description>
+    </item>
+    
+  </channel>
+</rss>
+

@@ -8,13 +8,23 @@
     <language>en-US</language>
     <copyright>
 </copyright>
-    <lastBuildDate>Thu, 24 Aug 2023 13:48:52 +0200</lastBuildDate><atom:link href="https://rcorzon.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 17:40:48 +0200</lastBuildDate><atom:link href="https://rcorzon.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to fix not being able to connect to RDP (Remote Desktop) using a Microsoft Account.</title>
+      <link>https://rcorzon.github.io/en/posts/en/windows-rdp-problem/</link>
+      <pubDate>Sun, 10 Sep 2023 17:40:48 +0200</pubDate>
+      
+      <guid>https://rcorzon.github.io/en/posts/en/windows-rdp-problem/</guid>
+      <description><![CDATA[This is a pretty unnerving issue, not because of the failure itself, but for the lack of documentation, details and official support by Microsoft. After spending hours trying different solutions online, this is what I found that it worked for me.
+There can be multiple causes of this issue, but usually this happens because you don&rsquo;t have your Microsoft account password cached into your remote computer. RDP has its credentials checked by the remote machine locally, that is, stored somewhere into the actual remote computer, and not on the cloud or an external service, even if you are using a Microsoft Account.]]></description>
+    </item>
+    
     <item>
       <title>Hello</title>
-      <link>https://rcorzon.github.io/en/posts/test/</link>
+      <link>https://rcorzon.github.io/en/posts/en/test/</link>
       <pubDate>Thu, 24 Aug 2023 13:48:52 +0200</pubDate>
       
-      <guid>https://rcorzon.github.io/en/posts/test/</guid>
+      <guid>https://rcorzon.github.io/en/posts/en/test/</guid>
       <description><![CDATA[Hi,
 I&rsquo;m Rubén. I&rsquo;m a full stack developer focused on Microsoft Technologies. In this page you can see the different links you can use to contact with me, as well as my Github portfolio.
 Regards.]]></description>

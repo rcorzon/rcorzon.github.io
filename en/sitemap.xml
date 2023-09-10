@@ -2,24 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rcorzon.github.io/en/tags/contact/</loc>
-    <lastmod>2023-08-24T13:48:52+02:00</lastmod>
-  </url><url>
-    <loc>https://rcorzon.github.io/en/posts/test/</loc>
-    <lastmod>2023-08-24T13:48:52+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-Es"
-                href="https://rcorzon.github.io/es/posts/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://rcorzon.github.io/en/posts/test/"
-                />
+    <loc>https://rcorzon.github.io/en/posts/en/windows-rdp-problem/</loc>
+    <lastmod>2023-09-10T17:40:48+02:00</lastmod>
   </url><url>
     <loc>https://rcorzon.github.io/en/</loc>
-    <lastmod>2023-08-24T13:48:52+02:00</lastmod>
+    <lastmod>2023-09-10T17:40:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-Es"
@@ -31,8 +18,34 @@
                 href="https://rcorzon.github.io/en/"
                 />
   </url><url>
+    <loc>https://rcorzon.github.io/en/tags/login/</loc>
+    <lastmod>2023-09-10T17:40:48+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-Es"
+                href="https://rcorzon.github.io/es/tags/login/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rcorzon.github.io/en/tags/login/"
+                />
+  </url><url>
+    <loc>https://rcorzon.github.io/en/tags/microsoft/</loc>
+    <lastmod>2023-09-10T17:40:48+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-Es"
+                href="https://rcorzon.github.io/es/tags/microsoft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rcorzon.github.io/en/tags/microsoft/"
+                />
+  </url><url>
     <loc>https://rcorzon.github.io/en/posts/</loc>
-    <lastmod>2023-08-24T13:48:52+02:00</lastmod>
+    <lastmod>2023-09-10T17:40:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-Es"
@@ -44,8 +57,21 @@
                 href="https://rcorzon.github.io/en/posts/"
                 />
   </url><url>
+    <loc>https://rcorzon.github.io/en/tags/rdp/</loc>
+    <lastmod>2023-09-10T17:40:48+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-Es"
+                href="https://rcorzon.github.io/es/tags/rdp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rcorzon.github.io/en/tags/rdp/"
+                />
+  </url><url>
     <loc>https://rcorzon.github.io/en/tags/</loc>
-    <lastmod>2023-08-24T13:48:52+02:00</lastmod>
+    <lastmod>2023-09-10T17:40:48+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-Es"
@@ -56,6 +82,25 @@
                 hreflang="en-US"
                 href="https://rcorzon.github.io/en/tags/"
                 />
+  </url><url>
+    <loc>https://rcorzon.github.io/en/tags/windows/</loc>
+    <lastmod>2023-09-10T17:40:48+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-Es"
+                href="https://rcorzon.github.io/es/tags/windows/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://rcorzon.github.io/en/tags/windows/"
+                />
+  </url><url>
+    <loc>https://rcorzon.github.io/en/tags/contact/</loc>
+    <lastmod>2023-08-24T13:48:52+02:00</lastmod>
+  </url><url>
+    <loc>https://rcorzon.github.io/en/posts/en/test/</loc>
+    <lastmod>2023-08-24T13:48:52+02:00</lastmod>
   </url><url>
     <loc>https://rcorzon.github.io/en/categories/</loc>
     <xhtml:link
